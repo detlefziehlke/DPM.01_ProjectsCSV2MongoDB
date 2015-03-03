@@ -1,0 +1,8 @@
+{
+  "name": "ProjectsCVS2MongoDB",
+  "version": "0.0.1",
+  "dependencies": {
+    "csv-parse": "0.0.9",
+    "mongoose": "^3.8.24"
+  }
+}
