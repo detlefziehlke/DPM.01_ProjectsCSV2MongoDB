@@ -6,8 +6,8 @@
 
 var fs = require('fs');
 var parse = require('csv-parse'),
-    mongoose = require('mongoose'),
-    conn = 0;
+      mongoose = require('mongoose'),
+      conn = 0;
 
 require('./models/projects');
 
